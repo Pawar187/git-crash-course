@@ -4,7 +4,11 @@ public class Hello{
             System.out.print("Hello Java1");
 
       System.out.print("Hello World2");
-      
+
+        System.out.print("Hello World2");
+
+          System.out.print("Hello World2");
+
   }
 
 }
