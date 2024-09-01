@@ -11,6 +11,8 @@ public class Program{
 
   public void method() {
             System.out.print("Hello Java from method");
+                    System.out.print("Hello You");
+
 
   }
       
