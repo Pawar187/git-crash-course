@@ -41,6 +41,11 @@ public class Program{
  public void method6() {
             System.out.print("Hello Java from method3");
                     System.out.print("Hello You !");
+                    System.out.print("Hello You !");
+                    System.out.print("Hello You !");
+                    System.out.print("Hello You !");
+                    System.out.print("Hello You !");
+
 
   }
 
