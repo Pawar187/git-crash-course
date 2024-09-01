@@ -22,6 +22,12 @@ public class Program{
 
 
   }
+   public void method3() {
+            System.out.print("Hello Java from method3");
+                    System.out.print("Hello You !");
+
+
+  }
       
   
 
