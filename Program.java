@@ -28,7 +28,15 @@ public class Program{
 
 
   }
-      
-  
+  public void method4() {
+            System.out.print("Hello Java from method3");
+                    System.out.print("Hello You !");
+
+  }
+  public void method5() {
+            System.out.print("Hello Java from method3");
+                    System.out.print("Hello You !");
+
+  }
 
 }
